@@ -1,0 +1,150 @@
+Hexagon,Plot,Plot.id,Code,Height m,Species,DBH,BH Age yrs,Site Index m,Species Name,Curves Developed For - Species,SI Curve,SI Curve #
+15,2,H15P2,H15P2SIT3,20.6,Bl,20,102,11.73,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+15,2,H15P2,H15P2SIT1,23.9,Sx,29.2,62,20.4,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+15,2,H15P2,H15P2SIT2,21.9,Sx,32.7,55,20.36,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+15,2,H15P2,H15P2SIT4,21.3,Bl,22.3,59,18.87,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+15,1,H15P1,H15P1SIT2,25.5,Sx,36.7,64,21.42,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+15,1,H15P1,H15P1SIT3,24.2,Bl,27.5,59,21.64,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+15,1,H15P1,H15P1SIT1,22.2,Bl,26.7,52,21.59,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+15,1,H15P1,H15P1SIT4,23,Sx,29.5,53,22.03,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+11,3,H11P3,H11P3SIT3,21.9,Bl,31.5,73,16.6,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+11,3,H11P3,H11P3SIT2,26.4,Sx,38.2,62,22.76,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+11,3,H11P3,H11P3SIT5,22.4,Bl,25,70,17.59,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+11,3,H11P3,H11P3SIT1,26.9,Sx,35.5,59,24.04,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+8,2,H8P2,H8P2SIT4,25.1,Sx,32.1,50,25.15,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+8,2,H8P2,H8P2SIT3,34.6,Bl,57,99,24.65,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+8,2,H8P2,H8P2SIT2,27.1,Sx,38.2,65,22.68,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+8,2,H8P2,H8P2SIT1,33.1,Bl,43.7,146,19.22,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+8,1,H8P1,H8P1SIT5,22.1,Bl,25.9,76,16.27,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+6,1,H6P1,H6P1SIT3,31.6,Sx,49.5,52,30.86,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+6,1,H6P1,H6P1SIT2,22.9,Bl,30.1,61,19.9,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+5,2,H5P2,H5P2SIT3,21,Bl,28.4,109,11.38,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+5,2,H5P2,H5P2SIT2,34.3,Sx,44.4,160,17.54,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+5,2,H5P2,H5P2SIT1,34.7,Sx,46.2,160,17.94,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+5,1,H5P1,H5P1SIT3,24.8,Sx,27,52,24.12,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+5,1,H5P1,H5P1SIT2,36.3,Bl,41.7,135,23.11,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+5,1,H5P1,H5P1SIT1,27.5,Bl,38.1,112,16.58,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+4,2,H4P2,H4P2SIT4,30.4,Sx,55.1,120,17.19,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+4,2,H4P2,H4P2SIT3,30.3,Sx,46.6,176,12.69,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+4,2,H4P2,H4P2SIT2,23.6,Bl,36.8,116,12.84,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+4,2,H4P2,H4P2SIT1,25.8,Bl,33.9,133,13.33,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+4,1,H4P1,H4P1SIT4,27.2,Bl,47.8,115,16.03,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+4,1,H4P1,H4P1SIT3,33.4,Sx,55,120,19.99,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+4,1,H4P1,H4P1SIT2,32,Sx,45.8,65,27.36,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+4,1,H4P1,H4P1SIT1,36.3,Bl,61.3,132,23.33,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+3,1,H3P1,H3P1SIT2,18.8,Sx,29.8,56,17.11,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+3,1,H3P1,H3P1SIT1,24.6,Sx,29.2,48,25.45,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+2,3,H2P3,H2P3SIT5,19.6,Bl,20.3,52,19.03,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+2,3,H2P3,H2P3SIT4,22.7,Sx,30,30,32.85,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+2,3,H2P3,H2P3SIT3,27.8,Sx,35.8,141,13,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+2,3,H2P3,H2P3SIT2,28.2,Fd,48.8,106,18.02,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+2,3,H2P3,H2P3SIT1,35.4,Fd,67.9,183,18.17,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+2,2,H2P2,H2P2SIT4,24.3,Sx,29.2,48,25.15,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+2,2,H2P2,H2P2SIT3,23.4,Sx,27.8,51,23.06,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+2,2,H2P2,H2P2SIT2,20.7,Bl,22.8,84,13.88,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+2,2,H2P2,H2P2SIT1,25.7,Bl,31.6,110,15.17,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+10,4,H10P4,H10P4SIT1,28.2,At,41.1,58,26.24,Trembling aspen,Trembling aspen,"Nigh, Krestov, and Klinka 2002",92
+10,4,H10P4,H10P4SIT2,27,At,34.7,55,25.75,Trembling aspen,Trembling aspen,"Nigh, Krestov, and Klinka 2002",92
+10,4,H10P4,H10P4SIT4,29.2,Sx,40.3,140,14.29,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+10,4,H10P4,H10P4SIT3,25.8,Sx,32.5,52,25.12,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+10,6,H10P6,H10P6SIT3,24.3,Bl,31.6,128,12.43,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+10,6,H10P6,H10P6SIT2,28,Sx,33.4,100,17.34,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+10,6,H10P6,H10P6SIT1,26.6,Sx,36.9,120,13.87,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+10,6,H10P6,H10P6SIT4,24.7,Bl,30.8,147,11.46,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+9,5,H9P5,H9P5SIT4,28.8,Sx,43.1,136,14.27,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+9,5,H9P5,H9P5SIT3,25.7,Sx,30.3,67,20.89,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+9,5,H9P5,H9P5SIT2,24.3,Bl,30.4,138,11.72,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+9,5,H9P5,H9P5SIT1,26.9,Bl,36.6,141,13.71,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+6,2,H6P2,H6P2SIT4,25.5,Bl,43.7,207,9.16,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+6,2,H6P2,H6P2SIT3,26.6,Sx,37.4,59,23.76,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+6,2,H6P2,H6P2SIT2,30.8,Sx,50.6,68,25.48,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+6,2,H6P2,H6P2SIT1,26.9,Bl,42,69,21.96,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+19,2,H19P2,H19P2SIT3,24.5,Sx,30.8,56,22.59,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+19,2,H19P2,H19P2SIT4,24.1,Sx,30.7,49,24.54,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+19,2,H19P2,H19P2SIT2,23.3,Bl,30.2,96,14.59,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+19,2,H19P2,H19P2SIT1,24.2,Bl,33.7,138,11.64,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+19,4,H19P4,H19P4SIT4,22.9,Bl,33,63,19.46,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+19,4,H19P4,H19P4SIT2,22.5,Sx,45,211,5.81,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+19,4,H19P4,H19P4SIT3,23.4,Bl,31.3,69,18.69,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+19,4,H19P4,H19P4SIT1,32.2,Sx,47.7,170,14.83,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+20,9,H20P9,H20P9SIT4,25,Sx,35.5,58,22.5,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+20,9,H20P9,H20P9SIT3,24.7,Sx,36.2,52,24.02,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+20,9,H20P9,H20P9SIT2,24.3,Bl,29,120,13.08,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+20,9,H20P9,H20P9SIT1,25.1,Bl,32.5,122,13.58,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+20,5,H20P5,H20P5SIT4,25.5,Sx,31.2,153,10.33,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+20,5,H20P5,H20P5SIT3,22.9,Fd,30.7,59,20.46,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+20,5,H20P5,H20P5SIT2,24.2,Fd,34.8,55,22.66,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+20,5,H20P5,H20P5SIT1,24.5,Fd,32.1,48,25.21,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+7,6,H7P6,H7P6SIT1,21.9,Bl,28.6,61,18.97,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+7,6,H7P6,H7P6SIT2,17.1,Bl,22,40,20.29,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+7,6,H7P6,H7P6SIT4,24.7,Sx,25.7,68,19.74,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+7,6,H7P6,H7P6SIT3,21.4,Sx,28.4,60,18.54,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+13,5,H13P5,H13P5SIT3,27.2,Bl,29.5,57,25.06,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+13,5,H13P5,H13P5SIT1,25.5,Sx,37.5,49,25.96,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+13,5,H13P5,H13P5SIT2,25.7,Sx,43.1,51,25.35,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+13,5,H13P5,H13P5SIT5,21.5,Bl,28.2,61,18.58,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+13,3,H13P3,H13P3SIT1,24.7,Fd,35.2,62,21.4,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+13,3,H13P3,H13P3SIT2,22.5,Fd,30.1,54,21.34,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+13,3,H13P3,H13P3SIT4,20.5,Bl,20.6,61,17.66,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+13,3,H13P3,H13P3SIT3,22,Bl,27.5,63,18.61,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+14,9,H14P9,H14P9SIT2,27.5,Sx,51.3,80,19.93,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+14,9,H14P9,H14P9SIT4,22,Bl,22.5,50,22.04,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+14,9,H14P9,H14P9SIT1,26,Sx,40.6,56,24.04,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+14,5,H14P5,H14P5SIT2,25.9,Sx,33.7,64,21.78,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+14,5,H14P5,H14P5SIT4,22.5,Bl,29.5,66,18.46,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+14,5,H14P5,H14P5SIT5,27.1,Sx,38.8,56,25.12,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+14,5,H14P5,H14P5SIT3,21.1,Bl,25.1,95,12.86,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+16,4,H16P4,H16P4SIT4,23.3,Fd,36.5,68,19.02,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+16,4,H16P4,H16P4SIT3,24,Sx,29.9,53,23.02,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+16,4,H16P4,H16P4SIT2,21.2,Sx,31.1,54,19.96,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+16,4,H16P4,H16P4SIT1,25.1,Fd,38.4,58,22.7,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+16,7,H16P7,H16P7SIT3,22.5,Bl,31.2,64,18.87,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+16,7,H16P7,H16P7SIT4,23.1,Bl,33.9,82,16.23,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+16,7,H16P7,H16P7SIT2,27.2,Sx,40.9,75,20.59,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+16,7,H16P7,H16P7SIT1,24.5,Sx,41.1,65,20.24,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+17,7,H17P7,H17P7SIT4,18.9,Bl,25.4,62,15.95,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+17,7,H17P7,H17P7SIT3,19.8,Bl,30,61,17,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+17,7,H17P7,H17P7SIT2,23.1,Sx,29.8,47,24.33,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+17,7,H17P7,H17P7SIT1,23.9,Sx,39.1,66,19.44,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+17,4,H17P4,H17P4SIT5,22.5,Bl,26.8,60,19.76,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+17,4,H17P4,H17P4SIT4,28.2,At,30.2,65,24.84,Trembling aspen,Trembling aspen,"Nigh, Krestov, and Klinka 2002",92
+17,4,H17P4,H17P4SIT2,25.7,Sx,32.1,54,24.37,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+17,4,H17P4,H17P4SIT1,19,Sx,25.4,49,19.35,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+17,4,H17P4,H17P4SIT3,25.3,At,21.6,65,22.13,Trembling aspen,Trembling aspen,"Nigh, Krestov, and Klinka 2002",92
+12,4,H12P4,H12P4SIT4,22.7,Bl,26.6,120,11.77,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+12,4,H12P4,H12P4SIT1,21.5,Sx,37.3,60,18.64,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+12,4,H12P4,H12P4SIT3,22.8,Bl,33.4,145,10.09,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+12,2,H12P2,H12P2SIT2,25.1,Bl,29,99,15.8,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+12,2,H12P2,H12P2SIT3,31.6,Sx,40.1,120,18.3,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+12,2,H12P2,H12P2SIT1,26.8,Bl,27,110,16.15,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+12,2,H12P2,H12P2SIT4,20.3,Sx,21.2,58,18.02,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+11,6,H11P6,H11P6SIT4,18.3,Bl,18.7,46,19.49,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+11,6,H11P6,H11P6SIT2,21.6,Fd,41.8,52,21.02,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+11,6,H11P6,H11P6SIT3,18,Bl,21.4,46,19.18,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+11,6,H11P6,H11P6SIT1,25.2,Fd,35.9,66,20.97,Douglas-fir,Interior Douglas-fir,Thrower and Goudie (1992ac),96
+18,5,H18P5,H18P5SIT4,24.4,Bl,38.7,75,18.51,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+18,5,H18P5,H18P5SIT2,21.6,Sx,36.4,43,24.47,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+18,5,H18P5,H18P5SIT3,26.5,Bl,36.2,63,22.88,Subalpine fir,Subalpine fir,Chen and Klinka (2000ac),93
+18,5,H18P5,H18P5SIT1,21.8,Sx,44.4,68,17.1,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+18,3,H18P3,H18P3SIT3,21.9,Ac,39,86,15.36,Poplar,Balsam poplar,"Huang, Titus, and Lakusta (1994ac)",97
+18,3,H18P3,H18P3SIT1,24.3,Sx,36.6,59,21.55,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+18,3,H18P3,H18P3SIT2,27.6,Sx,54.3,148,12.3,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+11,1,H11P1,H11P1SIT1,24,Sx,37.2,55,22.39,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+11,7,H11P7,H11P7SIT1,26.5,Sx,36.7,49,26.97,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+12,1,H12P1,H12P1SIT1,26.8,Sx,31.8,38,32.76,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+12,7,H12P7,H12P7SIT1,24.8,Sx,30.1,56,22.87,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+14,1,H14P1,H14P1SIT1,23.3,Sx,27.5,56,21.42,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+14,2,H14P2,H14P2SIT1,25,Sx,33,61,21.68,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+18,6,H18P6,H18P6SIT1,24.2,Sx,39.3,59,21.46,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+18,9,H18P9,H18P9SIT1,25.5,Sx,41.4,61,22.16,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+20,1,H20P1,H20P1SIT1,27.4,Sx,37.2,60,24.24,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+20,3,H20P3,H20P3SIT1,20.5,Sx,29,48,21.23,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+2,6,H2P6,H2P6SIT1,33.9,Sx,43.7,155,17.5,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+3,8,H3P8,H3P8SIT1,24.5,Sx,33.6,52,23.83,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+3,9,H3P9,H3P9SIT1,32,Sx,53.2,139,16.91,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+4,3,H4P3,H4P3SIT1,25.5,Sx,33.8,50,25.55,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+4,6,H4P6,H4P6SIT1,26.1,Sx,35.6,59,23.27,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+5,6,H5P6,H5P6SIT1,21.7,Sx,29.4,55,20.15,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+8,4,H8P4,H8P4SIT1,23.1,Sx,30.6,55,21.52,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+8,6,H8P6,H8P6SIT1,20.1,Sx,21.8,48,20.82,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
+9,1,H9P1,H9P1SIT1,26.3,Sx,40,55,24.63,Spruce hybrid,White spruce,Goudie (1984ac) (natural),106
